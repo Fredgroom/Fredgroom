@@ -15,9 +15,8 @@ Frontend Developer with 6+ years of experience building fast, accessible React/N
 
 ## Frameworks
 
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  /></picture>
-
 <div align="left">
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></picture>
 <picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></picture>
@@ -28,7 +27,6 @@ Frontend Developer with 6+ years of experience building fast, accessible React/N
 ## Styling & Design
 
 <div align="left">
-<picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  /></picture>
 <picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /></picture>
