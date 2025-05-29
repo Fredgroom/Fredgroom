@@ -10,7 +10,7 @@ contribute to impactful projects.
 ### Frontend Technologies
 
 <div align="left">
-<picture><picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></picture></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></picture>
   <picture><img width="12" /></picture>
   <picture><img width="12" /></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></picture>
