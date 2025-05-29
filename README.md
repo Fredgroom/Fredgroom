@@ -5,25 +5,22 @@ responsive web applications. Highly proficient in React, TypeScript, Next.js, HT
 and always eager to adopt new technologies. In agency environments, I have worked on projects both as a solo developer, collaborating directly with stakeholders, and as part of agile teams. I am looking for permanent role where I can
 contribute to impactful projects.
 
-## Skills
-
 ### Frontend Technologies
 
 <div align="left">
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></picture>
-  <picture><img width="12" /></picture>
-  <picture><img width="12" /></picture>
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></picture>
-  <picture><img width="12" /></picture>
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></picture>
-  <picture><img width="12" /></picture>
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></picture>
-  <picture><img width="12" /></picture>
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></picture>
-  <picture><img width="12" /></picture>
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></picture>
-  <picture><img width="12" /></picture>
-
+<picture><img width="12" /></picture>
+<picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></picture>
+<picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></picture>
+<picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></picture>
+<picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></picture>
+<picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></picture>
+<picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  /></picture>
 <picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /></picture>
@@ -42,15 +39,13 @@ contribute to impactful projects.
 
 <div align="left">
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></picture>
-    <picture><img width="12" /></picture>
+  <picture><img width="12" /></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  /></picture>
-    <picture><img width="12" /></picture>
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="mongodb logo"  /></picture>
-<picture><img width="12" /></picture>
-
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  /></picture>
-
- </div>
+  <picture><img width="12" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="mongodb logo"  /></picture>
+  <picture><img width="12" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  /></picture>
+</div>
 
 ### Development Tools
 
