@@ -12,6 +12,7 @@ contribute to impactful projects.
 <div align="left">
 <picture><picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></picture></picture>
   <picture><img width="12" /></picture>
+  <picture><img width="12" /></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></picture>
   <picture><img width="12" /></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></picture>
@@ -39,10 +40,13 @@ contribute to impactful projects.
 
 ### Backend Technologies
 
-<div style={{display: 'grid'}}>
+<div align="left">
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></picture>
+    <picture><img width="12" /></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  /></picture>
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="mongodb logo"  /></picture>
+    <picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="mongodb logo"  /></picture>
+<picture><img width="12" /></picture>
 
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  /></picture>
 
@@ -64,7 +68,7 @@ contribute to impactful projects.
 
 ## Live Projects
 
-Here are examples of projects that I delivered and are currently live:
+Here are some live projects that I've worked on:
 
 [Sounds Super](https://soundssuper.co/) - A marketing website for a podcasting agency.
 Built with TailwindCSS and React
