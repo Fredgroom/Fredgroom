@@ -5,7 +5,7 @@ responsive web applications. Highly proficient in React, TypeScript, Next.js, HT
 and always eager to adopt new technologies. In agency environments, I have worked on projects both as a solo developer, collaborating directly with stakeholders, and as part of agile teams. I am looking for permanent role where I can
 contribute to impactful projects.
 
-### Frontend Technologies
+## Frontend Technologies
 
 <div align="left">
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></picture>
@@ -35,7 +35,7 @@ contribute to impactful projects.
 
 </div>
 
-### Backend Technologies
+## Backend Technologies
 
 <div align="left">
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></picture>
@@ -47,7 +47,7 @@ contribute to impactful projects.
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  /></picture>
 </div>
 
-### Development Tools
+## Development Tools
 
 <div align="left">
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  /></picture>
