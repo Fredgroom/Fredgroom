@@ -1,37 +1,48 @@
 # Frontend Developer | Building intuitive User experiences
 
-I am a passionate Frontend Developer with over 5 years of experience building optimised, accessible, and
-responsive web applications. Highly proficient in React, TypeScript, Next.js, HTML, CSS, and JavaScript,
-and always eager to adopt new technologies. In agency environments, I have worked on projects both as a solo developer, collaborating directly with stakeholders, and as part of agile teams. I am looking for permanent role where I can
-contribute to impactful projects.
+Frontend Developer with 6+ years of experience building fast, accessible React/Next.js applications. Expert at turning Figma designs into responsive, accessible UIs. Skilled in performance optimisation, testing, and cross-functional collaboration.
 
-## Frontend Technologies
+## Languages
 
 <div align="left">
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></picture>
-<picture><img width="12" /></picture>
-<picture><img width="12" /></picture>
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></picture>
-<picture><img width="12" /></picture>
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></picture>
-<picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></picture>
 <picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></picture>
 <picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></picture>
+<picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></picture>
+
+## Frameworks
+
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  /></picture>
+
+<div align="left">
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></picture>
+<picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></picture>
+ <picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="40" alt="jquery logo"  /></picture>
+</div>
+
+## Styling & Design
+
+<div align="left">
 <picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  /></picture>
 <picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /></picture>
 <picture><img width="12" /></picture>
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  /></picture>  
- <picture><img width="12" /></picture>
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="40" alt="jquery logo"  /></picture>
-<picture><img width="12" /></picture>
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  /></picture>
-<picture><img width="12" /></picture>
 <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></picture>
+</div>
+
+## Testing & QA
+
+<div align="left">
+<picture><img width="12" /></picture>
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  /></picture>  
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /></picture>
+</div>
 
 </div>
 
@@ -47,7 +58,7 @@ contribute to impactful projects.
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  /></picture>
 </div>
 
-## Development Tools
+## Tools
 
 <div align="left">
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  /></picture>
@@ -58,7 +69,6 @@ contribute to impactful projects.
   <picture><img width="12" /></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="visual studio code logo"  /></picture>
   <picture><img width="12" /></picture>
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /></picture>
 </div>
 
 ## Live Projects
